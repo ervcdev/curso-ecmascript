@@ -13,7 +13,8 @@ let lorem = 'esot es un stringsito\n' + 'esto es la siguinete linea'
 
 let lorem2 = `Esta es una frase epica
 la continuacion de la frase
-siguiente continuacion
+siguiente continuacionaka.ms’s DNS address could not be found. Diagnosing the problem.
+DNS_PROBE_POSSIBLE
 otrica
 `;
 console.log(lorem);
