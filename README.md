@@ -1,4 +1,4 @@
-# ECMAscript.
+ # ECMAscript.
 dento de netscape nacio javascript en 1995
 * ecma: European Computer Manusfacturer Association: estandar de javascript.
 
@@ -17,3 +17,7 @@ borrador.
 
 
 ## v6
+con *let* se puede reasignar un valor pero con *const* da error.
+const y let solo pueden ser accedidas dentro del bloque donde fueron declaradas.
+
+comillas francesas, con estas podemos hacer multiples lineas que son podemos agregar bloques de frases.

@@ -8,7 +8,7 @@ console.log(fruit);
 
 const animal = 'Dog';
 animal = 'cat';
-console.log(anima);
+console.log(animal);
 
 const fruits = () => {
     if(true) {
