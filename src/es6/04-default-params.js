@@ -8,7 +8,7 @@ function newUser (name, age, country) {
 newUser();
 newUser('Oscar', 52, 'Mexico');
 
-function newAdmin(name = 'Ervin', age = 19, country = 'CO') {
+function newAdmin(name = 'Ervin', age = 19, country = 'CL') {
     console.log(name, age, country);
 }
 
