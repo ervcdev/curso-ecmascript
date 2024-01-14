@@ -32,7 +32,9 @@ es algo que va a pasar.
 en esta se utiliza js``` .then``` se utiliza para manejar el caso en el que la promesa se resuelve con éxito y ``` .catch``` se utiliza para manejar el caso en el que la promesa es rechazada (rejected), es decir, si ocurre algún error durante la ejecución de la operación asíncrona.
 
 ## Clases
-
+## Module
+## Generators.
+es una funcion especial que nos varetornar unos valores segun el algoritmo dado y mantener un estado.
 
 
 
