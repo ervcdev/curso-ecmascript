@@ -36,6 +36,8 @@ en esta se utiliza js``` .then``` se utiliza para manejar el caso en el que la p
 ## Generators.
 es una funcion especial que nos varetornar unos valores segun el algoritmo dado y mantener un estado.
 
+cada vez que imprime por pantalla, imprime el siguiente elemento del arreglo ya que recuerda su estado que es el valor anterior que imprimio, entonces muestra el siguiente
+
 
 
 
